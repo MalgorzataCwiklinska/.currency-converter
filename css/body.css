@@ -1,7 +1,5 @@
 .body {
-    width: 300px;
-    height:300px;
     resize: both;
     overflow: auto;
-    background-image: url("../images/money.jpg");
+    background-image: url("../images/background.png");
 }
