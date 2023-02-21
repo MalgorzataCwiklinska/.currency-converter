@@ -9,5 +9,8 @@ https://malgorzatacwiklinska.github.io/.currency-converter/
 ## Technologies
 - HTML
 - CSS
+- Normalize
 - JavaScript
 - BEM convention
+- ES6+ feature
+
